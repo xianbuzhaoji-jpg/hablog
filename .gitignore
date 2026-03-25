@@ -1,0 +1,13 @@
+# Maven and Java IDE exclusions
+
+# Compiled class file
+*.class
+
+# Maven directory
+/target/
+
+# IntelliJ IDEA
+/.idea/
+
+# macOS
+.DS_Store
