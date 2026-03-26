@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/controller" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/dto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/entity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/mapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog/util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/example/hablog" isTestSource="false" />
+    </content>
+  </component>
+</module>
